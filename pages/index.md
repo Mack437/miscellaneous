@@ -1,5 +1,5 @@
 ---
-title: 'Welcome to the NEM Documentation'
+title: 'Welcome to the NEM Docs'
 nav_order: 0
 ---
 
