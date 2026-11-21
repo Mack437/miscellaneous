@@ -1,8 +1,10 @@
+import packageJson from '../../../package.json';
+
 const AppConstants = {
     //Application name
     appName: 'NEM Wallet',
 
-    version: '2.7.0',
+    version: packageJson.version,
 
     //Network
     defaultNetwork: 104,
